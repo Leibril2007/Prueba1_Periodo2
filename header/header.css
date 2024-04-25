@@ -1,5 +1,5 @@
 header{
-    width: 100%;/* 120rem */
+    width: 120rem;/* 120rem */
     margin: auto;
     height: 8rem;
     /* background-color: red; */
@@ -7,14 +7,14 @@ header{
 
     display: flex;
     align-items: center;
-    /* padding: 0 1rem; */
+     padding: 0 1rem; 
 }
 
 header .box_image{
     width: 6rem;
     height: 6rem;
 
-    margin: 0 1rem;
+    
 }
 
 header .box_image img{
